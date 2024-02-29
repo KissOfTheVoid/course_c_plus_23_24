@@ -34,11 +34,12 @@
 # CMake
 CMakeFiles/
 CMakeScripts/
+cmake-build-debug/
 CMakeCache.txt
 CMakeTmp/
 CTestTestfile.cmake
 cmake_install.cmake
-cmake-build-debug
+
 
 main
 main.dSYM
